@@ -14,7 +14,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=flutter,docker,vscode,github,aws,flask,fastapi" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=flutter,docker,vscode,github,aws,flask,fastapi,kotolin" /> <br /><br />
 # CONECT
 <p align="left">
   <a href="https://twitter.com/Iwashita_shoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YourTwitterUsername" height="30" width="40" /></a>
