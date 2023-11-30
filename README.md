@@ -2,9 +2,11 @@
 ### Just 21 years old 
 ### Feel free to contact me anytime!👍
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoki151515_icons=true&theme=vue-dark)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoki151515&show_icons=true&theme=vue-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoki151515_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoki151515&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shoki151515_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -14,9 +16,10 @@
 # NOW TRAINING
 
 <p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[shoki15151003@gmail.com]"/></a>
+  <a href="https://twitter.com/YourTwitterUsername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YourTwitterUsername" height="30" width="40" /></a>
+  <a href="mailto:shoki15151003@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoki15151003@gmail.com"/></a>
 </p>
+
 
 
 
