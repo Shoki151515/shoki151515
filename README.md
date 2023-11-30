@@ -9,7 +9,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,flutter,php,sqlite,mysql,github,vscode,docker,laravel,aws" /> <br /><br />
 
   ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  Virtual Box
   
 # NOW TRAINING
 
