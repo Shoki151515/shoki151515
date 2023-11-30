@@ -2,7 +2,7 @@
 ### Just 21 years old 
 ### Feel free to contact me anytime!👍
 #
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoki151515_name&show_icons=true&theme=vue-dark)
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Shoki151515_name&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoki151515_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
