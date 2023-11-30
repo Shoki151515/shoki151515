@@ -2,6 +2,21 @@
 ### Just 21 years old 
 ### Feel free to contact me anytime!👍
 #
+
+
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,flutter,php,sqlite,mysql,github,vscode,docker,laravel,aws" /> <br /><br />
+
+  ※Another skill and tools
+  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  
+# NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=flutter,docker,vscode,github,aws" /> <br /><br />
+
+
+
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoki151515&show_icons=true&theme=vue-dark)
 
 
@@ -19,17 +34,6 @@
 
 
 
-
-# My Skill (Programming Languages, Frameworks and Tools)
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,flutter,php,sqlite,mysql,github,vscode,docker,laravel,aws" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=flutter,docker,vscode,github,aws" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
