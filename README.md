@@ -20,7 +20,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,flutter,php,sqlite,mysql,github,vscode,docker,laravel,aws,linux," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,python,flutter,php,sqlite,mysql,github,vscode,docker,laravel,aws,linux" /> <br /><br />
 
  ※Another skill and tools
   Virtual Box
