@@ -15,7 +15,7 @@
 # NOW TRAINING
 
 <img src="https://skillicons.dev/icons?i=flutter,docker,vscode,github,aws" /> <br /><br />
-#
+# CONECT
 <p align="left">
   <a href="https://twitter.com/Iwashita_shoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YourTwitterUsername" height="30" width="40" /></a>
   <a href="mailto:iwashitahsoki@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iwashitashoki@gmail.com"/></a>
