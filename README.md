@@ -3,8 +3,6 @@
 ### Feel free to contact me anytime!👍
 #
 
-
-
 <br><br><br>
 
 # My Skill (Programming Languages, Frameworks and Tools)
