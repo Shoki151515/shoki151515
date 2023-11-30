@@ -22,6 +22,7 @@
   <a href="https://twitter.com/Iwashita_shoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YourTwitterUsername" height="30" width="40" /></a>
   <a href="mailto:iwashitahsoki@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iwashitashoki@gmail.com"/></a>
 </p>
+
 <!-- --------------------------------- :) ---------------------------------- -->
 <br><br><br>
 
@@ -34,7 +35,9 @@
         <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
     </h1>
   </div>
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoki151515&show_icons=true&theme=vue-dark)
+
+
+[![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shoki151515&show_icons=true&theme=vue-dark)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoki151515&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
