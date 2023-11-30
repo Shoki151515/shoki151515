@@ -13,7 +13,7 @@
 # NOW TRAINING
 
 <p align="left">
-  <a href="https://twitter.com/YourTwitterUsername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YourTwitterUsername" height="30" width="40" /></a>
+  <a href="https://twitter.com/Iwashita_shoga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="YourTwitterUsername" height="30" width="40" /></a>
   <a href="mailto:shoki15151003@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shoki15151003@gmail.com"/></a>
 </p>
 
