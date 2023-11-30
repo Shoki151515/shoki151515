@@ -8,9 +8,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoki151515&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shoki151515&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Iwashita_shoga)
 
 
 # NOW TRAINING
